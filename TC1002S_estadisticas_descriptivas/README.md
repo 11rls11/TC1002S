@@ -4,6 +4,8 @@
 
 2. Instala Python
 
-3. Instala la libreria de Pandas con PIP, te recomiendo que crees un entorno virtual para ello y luego no tengas problemas de dependencias
+3. Abre VS Code desde esta carpeta
 
-4. Instala la extensión de Python y la de Jupyther Keymap para ver correctamente el notebook y ejecutar facilmente las secciones de código
+4. Instala la libreria de Pandas con PIP, te recomiendo que crees un entorno virtual para ello y luego no tengas problemas de dependencias
+
+5. Instala la extensión de Python y la de Jupyther Keymap para ver correctamente el notebook y ejecutar facilmente las secciones de código
