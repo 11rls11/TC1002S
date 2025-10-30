@@ -4,6 +4,8 @@
 
 2. Instalar Python
 
-3. Instalar con PIP: Pandas, Seaborn, Matplotlib y lo necesario de Jupyter (VSCode te dirá qué)
+3. Abrir esta carpeta en VSCode
 
-4. Instala las extensiones de Python y Jupyter y listo!
+4. Abrir la terminal e instalar con PIP: Pandas, Seaborn, Matplotlib y lo necesario de Jupyter (VSCode te dirá qué)
+
+5. Instala las extensiones de Python y Jupyter y listo!
